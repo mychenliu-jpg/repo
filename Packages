@@ -1,0 +1,69 @@
+Package: com.tencent.themebox
+Version: 2.2.6
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_2.2.6_iphoneos-arm64.deb
+Size: 5192372
+MD5sum: fdbd48e0f290e713731bc1dbd0576e69
+SHA1: ff2cfc1bd41d696959db35a965af8f74b78dcf55
+SHA256: be723afed953f8cec9426d6a50dc185a42cdafb4fba358d50a4830a979d8fd8a
+Section: 微信插件
+Description: 学习交流。
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+Name: 主题盒子
+
+Package: com.wkk.3dfasthook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.3dfasthook_1.0-1_iphoneos-arm64.deb
+Size: 3076
+MD5sum: ca1282baccefceca951fdb8da095bb4c
+SHA1: c15a604109d02cd835d2cf1edb6bbb42e705bc60
+SHA256: 1196f84d033ded66d6c9dc162dc013395f40bc8af37e4543361bbe0c87d5d75e
+Section: Tweaks
+Description: cool
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 提升3DTouch唤醒速度
+
+Package: com.wkk.WCRefine
+Version: 1.3-6
+Architecture: iphoneos-arm64
+Maintainer: 热心网友
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.wkk.WCRefine_1.3-6_iphoneos-arm64.deb
+Size: 2418996
+MD5sum: 5beb53c02faac2883e74a4d901660919
+SHA1: 72f76fda8ee707f9eb8baee0b66d0e24ccf4be03
+SHA256: faadf8af19efffdc53e796913a93e689d78834347f8fc479101dfbbf6775eb44
+Section: 微信插件
+Priority: optional
+Description: 微信优化的重制版本，WCRefine基于微信8.0.64+版本制作。
+Author: 热心网友
+Dev: 君临
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WCRefine
+
+Package: com.wkk.wcplugins
+Version: 0.1-6
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.wkk.wcplugins_0.1-6_iphoneos-arm64(1).deb
+Size: 13524
+MD5sum: 24cfbcedc6dfad84082adf124fc9334f
+SHA1: af2d9891710aec5081175c605e7bee38c12ca668
+SHA256: 6880b48212633b149de7d8914e78a5778f0d31fee0d067ebf4e07ec6d8ce0674
+Section: 微信插件
+Priority: optional
+Description: 修复热更新导致消失的问题。
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信插件管理
+
