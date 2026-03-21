@@ -13,9 +13,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          submodules: recursive
-          token: ${{ secrets.PAT_TOKEN }}  # 确保与 GitHub Secrets 中的名称一致
 
       - name: Install Dependencies
         if: success()
